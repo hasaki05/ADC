@@ -1,0 +1,6 @@
+".\Objects\xpt2046.obj",
+".\Objects\public.obj",
+".\Objects\Digitron.obj",
+".\Objects\main.obj" 
+TO ".\Objects\ADC2" 
+PRINT(".\Listings\ADC2.m51") RAMSIZE(256) 
